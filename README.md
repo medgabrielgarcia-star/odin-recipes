@@ -1,1 +1,2 @@
 # odin-recipes
+Hi everyone, I new in Odin Project. My name is Gabriel García. I'm a doctor but I really interesting in developer software, so I want to learn so code. Goodbye, guys
